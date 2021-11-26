@@ -1,4 +1,4 @@
-# submission-pens-x-dana
+# Submission Workshop HIMIT PENS x DANA
 Submission Workshop HIMIT PENS x DANA
 
 # Docs
